@@ -1,5 +1,5 @@
 CS 4371 Final Project
-Team members: Jay Shah (jcs180000) and Aatifa Khan (axk180019)
+
 
 The project contains 3 files, stream.py gets tweets using API keys from twitter based on an hashtag that can be set in the file, preprocesses them and streams them to spark.py
 
