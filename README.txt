@@ -1,4 +1,4 @@
-CS 4371 Final Project
+Spark Tweet Stream project, runs on linux pyspark
 
 
 The project contains 3 files, stream.py gets tweets using API keys from twitter based on an hashtag that can be set in the file, preprocesses them and streams them to spark.py
